@@ -1,0 +1,1 @@
+print("Industrial AI project - Sprint 1 is live")
