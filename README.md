@@ -54,15 +54,3 @@ Functional Safety Expert (IEC 61511/62061) | ATEX Expert | PLC/SCADA experience.
 Currently managing data and connectivity for 120+ CNG stations and 8 H2 refuelling 
 stations across France, Belgium and The Netherlands at TotalEnergies.
 ```
-
-To update the README:
-1. Click `README.md` in the Explorer panel
-2. Select all with **Ctrl+A**
-3. Paste the new content with **Ctrl+V**
-4. Save with **Ctrl+S**
-
-Then commit:
-```
-git add .
-git commit -m "Update README with Sprint 1 project descriptions"
-git push
